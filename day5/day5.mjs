@@ -38,7 +38,7 @@ function getSeedLocation(step) {
   return step;
 }
 
-console.log("Part 1", Math.min(...seeds.map(x => getSeedLocation(x))));
+console.log("Part 1: ", Math.min(...seeds.map(x => getSeedLocation(x))));
 
 const seedRanges = groupNumbers(seeds, 2);
 
@@ -62,7 +62,7 @@ for (let i = 0; i < 1000000000; i++) {
   const seed = getSeedGivenLocation(i);
 
   if (doWeHaveThatSeed(seed)) {
-    console.log("Part 2", i);
+    console.log("Part 2: ", i);
     break;
   }
 }

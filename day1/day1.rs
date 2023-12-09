@@ -9,7 +9,7 @@ fn lines_from_file(filename: impl AsRef<Path>) -> io::Result<Vec<String>> {
 }
 
 fn main() {
-    let lines = lines_from_file("input.in").expect("Could not load lines");
+    let lines = lines_from_file("day1.in").expect("Could not load lines");
     let mut sum = 0;
 
     for line in lines {

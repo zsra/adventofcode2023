@@ -12,7 +12,7 @@
 
 int main()
 {
-    FILE *file = fopen("day4part2.in", "rt");
+    FILE *file = fopen("day4.in", "rt");
     if (file == NULL) {
         perror("Error opening file");
         return 1;

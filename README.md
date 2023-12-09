@@ -11,5 +11,5 @@ Used languages for each day:
 |  5  | JS       |
 |  6  | C++      |
 |  7  | Python   |
-|  8  | GO       |
+|  8  | Go       |
 |  9  | Julia    |

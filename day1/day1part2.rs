@@ -103,7 +103,7 @@ fn check_string_number(line: &str, number: &mut i32, index: usize) {
 }
 
 fn main() {
-    let lines = lines_from_file("input_part2.in").expect("Could not load lines");
+    let lines = lines_from_file("day1.in").expect("Could not load lines");
     let mut sum = 0;
 
     for line in lines {

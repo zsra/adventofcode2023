@@ -4,7 +4,7 @@
 #include <sstream>
 
 int main() {
-    const std::string filePath = "day6part2.in";
+    const std::string filePath = "day6.in";
     std::ifstream file(filePath);
 
     if (!file.is_open()) {
