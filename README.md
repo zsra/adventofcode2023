@@ -13,3 +13,4 @@ Used languages for each day:
 |  7  | Python   |
 |  8  | Go       |
 |  9  | Julia    |
+| 10  | Scala    |
