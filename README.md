@@ -9,6 +9,6 @@ Used languages for each day:
 |  3  | Perl     | 11  | F#       |
 |  4  | C        | 12  | TS       |
 |  5  | JS       | 13  | Raku     |
-|  6  | C++      |
+|  6  | C++      | 14  | Haskell  |
 |  7  | Python   |
 |  8  | Go       |
