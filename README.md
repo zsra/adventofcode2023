@@ -11,4 +11,4 @@ Used languages for each day:
 |  5  | JS       | 13  | Raku     |
 |  6  | C++      | 14  | Haskell  |
 |  7  | Python   | 15  | Python   |
-|  8  | Go       |
+|  8  | Go       | 16  | Python   |
