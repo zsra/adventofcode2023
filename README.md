@@ -2,10 +2,10 @@
 
 Used languages for each day:
 
-| Day | Language | Day | Language |
-|-----|----------|-----|----------|
-|  1  | Rust     |  9  | Julia    |
-|  2  | C#       | 10  | Scala    |
+| Day | Language | Day | Language | Day | Language |
+|-----|----------|-----|----------|-----| ---------|
+|  1  | Rust     |  9  | Julia    | 17  | Python   |
+|  2  | C#       | 10  | Scala    | 18  | Python   |
 |  3  | Perl     | 11  | F#       |
 |  4  | C        | 12  | TS       |
 |  5  | JS       | 13  | Raku     |
