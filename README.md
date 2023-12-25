@@ -12,3 +12,4 @@ Used languages for each day:
 |  6  | C++      | 14  | Haskell  | 22  | Python   |
 |  7  | Python   | 15  | Python   | 23  | Python   |
 |  8  | Go       | 16  | Python   | 24  | Python   |
+| 25  | Python   |
